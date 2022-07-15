@@ -7,8 +7,8 @@ import java.util.HashMap;
 public class Login implements ActionListener {
 
     JFrame frame = new JFrame();
-
     JLabel introlabel = new JLabel();
+    
     JLabel namelabel = new JLabel("Name:");
     JTextField namefield = new JTextField();
 
